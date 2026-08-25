@@ -10,5 +10,8 @@ Legal documents for the Sartelle app (AI personal stylist & digital wardrobe).
 | --- | --- | --- |
 | Privacy Policy | [/privacy/](./privacy/) | [/privacy-tr/](./privacy-tr/) |
 | Terms of Service | [/terms/](./terms/) | [/terms-tr/](./terms-tr/) |
+| Support | [/support/](./support/) | — |
+
+Support is published in English for every market Sartelle serves.
 
 Operator contact: **mustafa@mustafacerit.com**
