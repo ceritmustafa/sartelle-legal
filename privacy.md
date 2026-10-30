@@ -139,8 +139,12 @@ on the provider's standard contractual clauses or equivalent safeguards.
 You can, at any time, from within the App:
 
 - **Export your data** (a machine-readable snapshot of your account and
-  wardrobe metadata) — Settings → Privacy → Export.
-- **Delete your account and data** — Settings → Privacy → Delete account.
+  wardrobe metadata) — Profile → Privacy & data → Request data export.
+- **Delete your account and data** — Profile → Delete account (at the bottom of
+  Profile, above Sign out; also under Profile → Privacy & data). Access ends
+  immediately and your data is permanently removed within minutes. A minimal
+  record that the deletion took place, without photos or other content, is
+  kept for security and legal reasons.
 
 You also have the right to access, rectify, restrict, object, and lodge a
 complaint with your supervisory authority (in Türkiye: KVKK Kurumu; in the

@@ -72,9 +72,12 @@ the render — that flag exists for exactly this.
 
 ### How do I export or delete my data?
 
-Profile → Privacy & data. **Request data export** builds a downloadable archive
-of everything on your account. **Delete my account** is immediate and permanent:
-it removes your account, your sign-in identity, every photo and all data.
+To export, open Profile → Privacy & data and tap **Request data export**: it
+builds a downloadable archive of everything on your account. To delete, open
+Profile → **Delete account** (at the bottom, above Sign out). Deletion is
+permanent: your access ends immediately, and your account, your sign-in
+identity, every photo and all data are removed within minutes. The app
+confirms when the deletion has been accepted.
 Deleting your account does not cancel an active subscription — cancel that
 separately in the App Store.
 

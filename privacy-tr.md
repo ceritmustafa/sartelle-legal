@@ -131,9 +131,13 @@ sözleşme hükümleri veya eşdeğer güvenceleri esas alınır.
 
 Uygulama içinden dilediğiniz an:
 
-- **Verilerinizi dışa aktarabilirsiniz** — Ayarlar → Gizlilik → Dışa aktar.
-- **Hesabınızı ve verilerinizi silebilirsiniz** — Ayarlar → Gizlilik →
-  Hesabı sil.
+- **Verilerinizi dışa aktarabilirsiniz** — Profil → Gizlilik ve veriler →
+  Veri dışa aktarımı iste.
+- **Hesabınızı ve verilerinizi silebilirsiniz** — Profil → Hesabı sil (Profil
+  ekranının en altında, Çıkış yap'ın üstünde; ayrıca Profil → Gizlilik ve
+  veriler altında). Erişim hemen kapanır ve verileriniz birkaç dakika içinde
+  kalıcı olarak silinir. Silmenin yapıldığını gösteren, fotoğraf veya başka
+  içerik barındırmayan asgari bir kayıt güvenlik ve yasal nedenlerle saklanır.
 
 Ayrıca verilerinize erişme, düzeltme, işlemeyi kısıtlama, itiraz etme ve
 Kişisel Verileri Koruma Kurumu'na şikâyette bulunma hakkına sahipsiniz.
